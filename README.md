@@ -31,4 +31,4 @@ You'll need to perform the following steps to get a basic server running:
 
 LICENSE
 -------
-BSD license.
+ense.
